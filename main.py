@@ -1,7 +1,8 @@
 def my_superfunction():
     print('What an awesome print!')
     print('все ок')
-    print('Jrrrrrr')
+    print('ok')
+    print()
 
 
 def main():

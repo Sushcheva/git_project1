@@ -3,6 +3,7 @@ def my_superfunction():
     print('все ок')
     print('ok')
     print()
+    print(('Задолбаться'))
 
 
 def main():
